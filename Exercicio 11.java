@@ -40,7 +40,7 @@ public class main
 				caracterMaior = frase.charAt(letras);
 			}
 		}
-		System.out.println("O caractere que se repete mais vezes é o: " + caracterMaior + " (" + maior + " vezes)");
+		System.out.println("O caractere que se repete mais vezes Ã© o: " + caracterMaior + " (" + maior + " vezes)");
 		
     }
 
